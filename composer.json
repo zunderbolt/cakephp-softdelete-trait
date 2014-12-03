@@ -1,0 +1,24 @@
+{
+    "name": "zunderbolt/cakephp-softdelete-trait",
+    "description": "Soft delete trait for CakePHP models",
+    "type": "cakephp-plugin",
+    "keywords": ["cakephp", "softdelete", "soft", "delete", "trait", "model", "plugin"],
+    "homepage": "https://github.com/zunderbolt/cakephp-softdelete-trait",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Guchakov",
+			"email": "zunderbolt@gmail.com",
+            "homepage": "http://zunderbolt.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "composer/installers": "*"
+    },
+	"support": {
+        "issues": "https://github.com/zunderbolt/cakephp-softdelete-trait/issues",
+        "source": "https://github.com/zunderbolt/cakephp-softdelete-trait"
+    }
+}
