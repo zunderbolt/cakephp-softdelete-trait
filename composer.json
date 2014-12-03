@@ -20,5 +20,8 @@
 	"support": {
         "issues": "https://github.com/zunderbolt/cakephp-softdelete-trait/issues",
         "source": "https://github.com/zunderbolt/cakephp-softdelete-trait"
+    },
+    "extra": {
+        "installer-name": "SoftDeleteTrait"
     }
 }
